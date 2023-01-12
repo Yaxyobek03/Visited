@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    }
+    
+    .container{
+        width: 100%;
+        max-width: 1240px;
+        margin-left: auto;
+        margin-right: auto;
+        padding-left: 20px;
+        padding-right: 20px;
+        
+    }
+    body{
+    font-family: sans-serif;
+    
+    }
+    .box{
+    background-color: aliceblue;
+    padding: 39px;
+    }
+    .h1{
+    margin-top: 15px;
+    font-size: 58px;
+    margin-bottom: 44px;
+    }
+    .img{
+    width: 520px;
+    height: 700px;
+    border-bottom: 2px solid #000;
+    margin-bottom: 30px;
+    padding-bottom: 21px; 
+    
+    }
+    .poragrf {
+    
+        margin-bottom: 20px;
+    }
+    .img-3 {
+    border-bottom: 2px solid #000;
+    padding-bottom: 20px;
+        margin-bottom: 10px;
+    }
+    
+    .h2{
+        font-size: 22px;
+        color:#464542;
+        margin-bottom: 3px;
+    }
+    
+    a{
+        font-size: 13px;
+    text-decoration: none;
+    color: #6D6B67;
+    
+    }
+    .button{
+    width: 166px;
+    height: 45px;   
+    font-size: 17px;
+    border-radius: 20px;
+    background-color: #000;
+    color: #fff;
+    }
+    .main{
+    width: 1200px;
+    padding-bottom: 51px;
+    height: 487px;
+    top: 28px;
+    background-color:#F7F6F3;
+    padding-right: 40px;
+    padding-left: 40px; 
+    }
+    .some{
+        color:#1F1F1F;
+        padding: 36px;
+        border-bottom: 1px solid #000;
+        padding-top: 50px;
+        text-align: center;
+        font-size: 38px;
+        margin-bottom: 50px;
+        border-bottom: 2px solid #000;
+    }
+    
+    .ikonka {
+        display: flex;
+        justify-content: space-around;
+        margin-bottom: 40px;
+    }
+    .lagatiplar {
+    
+        list-style: none;
+    }
+    .img-logo {
+    margin-right: 40px;
+    }
+    
+    .start{
+    width: 1200px;
+    height: 158px;
+    background-color:#E0F391;
+    padding-top: 44px;
+    padding-left: 40px;
+    padding-right: 40px;
+    }
+    .nuq{
+        border-bottom: 1px solid #000 ;
+    margin-bottom: 24px;
+    }
+    .text{
+        padding-left: 40px;
+        color: #000;
+        font-size: 30px;
+    }
+    .stay{
+        width: 1200px;
+        height: 463px;
+    background-color: #000;
+    padding: 40px;
+    
+    }
+    
+    .analogue {
+    color: #fff;
+        font-size: 50px;
+    margin-bottom: 25px;    
+    }
+    .the {
+    font-size: 20px;
+    color: #fff;
+    margin-bottom: 53px;
+    border-bottom: 1px solid #fff;
+    padding-bottom: 50px;
+    }
+    
+    .nuqta {
+    border-bottom: 2px solid #000;
+    
+    }
